@@ -2,7 +2,7 @@ const Footer = () => {
   return (
     <footer className="footer-container">
       <p>MIT License 2020 - Created By:</p>
-      <a rel="noreferrer" color="white" href="https://github.com/DanielLvovsky">
+      <a rel="noreferrer" color="white" href="https://github.com/DanielLvovsky" target="_blank">
         &nbsp;Daniel Lvovsky
       </a>
       <style jsx>
