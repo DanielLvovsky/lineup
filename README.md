@@ -1,7 +1,7 @@
 
 
 ## Demo
-[Open Deployed Website](https://lineuptasks.vercel.app/
+[Open Deployed Website](https://line-up.vercel.app/
 )
 ## Features
 
