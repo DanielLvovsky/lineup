@@ -1,0 +1,12 @@
+module.exports = {
+  env: {
+    FIREBASE_APP_API_KEY: 'AIzaSyCXbxFyruohc08CawkZYKqD_qumEIrGWeU',
+    FIREBASE_APP_AUTH_DOMAIN: 'ia-project-1517495775140.firebaseapp.com',
+    FIREBASE_APP_DATABASE_URL: 'https://ia-project-1517495775140.firebaseio.com',
+    FIREBASE_APP_PROJECT_ID: 'ia-project-1517495775140',
+    FIREBASE_APP_STORAGE_BUCKET: 'ia-project-1517495775140.appspot.com',
+    FIREBASE_APP_MESSAGING_SENDER_ID: '636520256121',
+    FIREBASE_APP_ID: '1:636520256121:web:9aca5a0ea8931f18a4faa8',
+    FIREBASE_MEASUREMENT_ID: 'G-W8V25PCGWN',
+  },
+};
